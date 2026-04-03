@@ -2,13 +2,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+things+with+code;NotionNext+%7C+%E7%BC%96%E7%A8%8B+%7C+%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB;%E6%97%A0%E9%99%90%E8%BF%9B%E6%AD%A5%EF%BC%81" alt="typing" />
+<img src="assets/intro.svg" width="640" alt="自我介绍" />
 
 <br/>
 
-<a href="https://www.mcoi.top"><img src="assets/blog-card.svg" width="480" alt="mcoi.top 博客" /></a>
-<br/>
-<a href="https://www.mcoi.top/rss/feed.xml"><img src="https://img.shields.io/badge/RSS-订阅更新-FF6B35?style=flat-square&logo=rss&logoColor=white" alt="RSS" /></a>
+<a href="https://www.mcoi.top"><img src="assets/blog-card.svg" width="320" alt="mcoi.top 博客" /></a>
 
 <br/>
 
