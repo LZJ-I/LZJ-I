@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="168" viewBox="0 0 640 168" role="img" aria-label="L_Z_J &#x81EA;&#x6211;&#x4ECB;&#x7ECD;">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="136" viewBox="0 0 640 136" role="img" aria-label="L_Z_J &#x81EA;&#x6211;&#x4ECB;&#x7ECD;">
   <defs>
     <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#7aa2f7"/>
@@ -17,8 +17,8 @@
       <stop offset="100%" stop-color="#f7768e"/>
     </linearGradient>
   </defs>
-  <text x="320" y="38" text-anchor="middle" fill="url(#g1)" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="22" font-weight="700">Hi&#xFF0C;&#x6211;&#x662F; L_Z_J</text>
-  <text x="320" y="72" text-anchor="middle" fill="url(#g2)" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="17" font-weight="600">&#x65E0;&#x9650;&#x8FDB;&#x6B65;&#xFF01; &#xB7; mcoi.top</text>
-  <text x="320" y="108" text-anchor="middle" fill="url(#g3)" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="15" font-weight="500">&#x76EE;&#x524D;&#x6B63;&#x5728;&#x5B66;&#x4E60;&#x5D4C;&#x5165;&#x5F0F;</text>
-  <text x="320" y="142" text-anchor="middle" fill="url(#g4)" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="15" font-weight="500">&#x65E9;&#x65E5;&#x6210;&#x4E3A;&#x72EC;&#x6321;&#x4E00;&#x9762;&#x7684;&#x5DE5;&#x7A0B;&#x5E08;&#xFF01;</text>
+  <text x="320" y="34" text-anchor="middle" fill="url(#g1)" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="22" font-weight="700">Hi&#xFF0C;&#x6211;&#x662F; L_Z_J</text>
+  <text x="320" y="66" text-anchor="middle" fill="url(#g2)" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="17" font-weight="600">&#x65E0;&#x9650;&#x8FDB;&#x6B65;&#xFF01;</text>
+  <text x="320" y="98" text-anchor="middle" fill="url(#g3)" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="15" font-weight="500">26&#x5C4A;&#x672C;&#x79D1;&#x6BD5;&#x4E1A;&#x751F;</text>
+  <text x="320" y="128" text-anchor="middle" fill="url(#g4)" font-family="ui-sans-serif,system-ui,-apple-system,sans-serif" font-size="15" font-weight="500">liu_zhen_jie@126.com</text>
 </svg>
