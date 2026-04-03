@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=C98A4A&center=true&pause=100000&lines=Hi,+I'm+L_Z_J.+Embedded+%26+Web." alt="Hi"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=C98A4A&center=true&vCenter=true&width=780&pause=100000&lines=Class+of+2026+CS+undergraduate+%7C+mcoi.top+%7C+Open-source+enthusiast." alt="Current Role"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=C98A4A&center=true&vCenter=true&width=780&pause=100000&lines=Class+of+2026+undergraduate+%7C+Never+stop+improving+%7C+Open-source+enthusiast." alt="Current Role"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px" alt="wave"/>
     <strong>I am open to internship opportunities in any interesting direction.</strong>
@@ -13,7 +13,7 @@
 
 - I’m grateful to live in an open-source world; my blog runs on NotionNext at [mcoi.top](https://www.mcoi.top).
 - I’m happy to contribute for free to fun projects & ideas, feel free to email me at [liu_zhen_jie@126.com](mailto:liu_zhen_jie@126.com).
-- I’m primarily seeking embedded systems / software engineering internships and full-time roles, and remaining open to other interesting directions.
+- I’m primarily seeking embedded systems / software engineering internships and full-time roles, and remaining open to other.
 - If you’re interested in what I’m building, welcome to join me.
 
 ### Links
@@ -39,9 +39,6 @@
     <img src="https://img.shields.io/badge/GitHub-LZJ--I-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
-- **Blog (NotionNext)**: [mcoi.top](https://www.mcoi.top) · [Categories](https://www.mcoi.top/category)
-- **CSDN**: [L_Z_J_I](https://blog.csdn.net/L_Z_J_I?type=blog)
 
 Topics I write about—embedded, protocols, tools, and more—are organized on my [blog categories](https://www.mcoi.top/category).
 
