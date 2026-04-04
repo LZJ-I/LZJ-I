@@ -11,7 +11,7 @@
   </p>
 </div>
 
-- I’m grateful to live in an open-source world; my blog runs on NotionNext at [mcoi.top](https://www.mcoi.top).
+- I’m grateful to live in an open-source world.
 - I’m happy to contribute for free to fun projects & ideas, feel free to email me at [liu_zhen_jie@126.com](mailto:liu_zhen_jie@126.com).
 - I’m primarily seeking embedded systems / software engineering internships and full-time roles, and remaining open to other.
 - If you’re interested in what I’m building, welcome to join me.
