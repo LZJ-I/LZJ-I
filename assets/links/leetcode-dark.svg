@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="104" viewBox="0 0 400 104" role="img" aria-label="LeetCode: LZJ_I">
+  <title>LeetCode: LZJ_I</title>
+  <rect x="1" y="1" width="398" height="94" rx="14" fill="#151b23" stroke="#303a45" stroke-width="2"/>
+  <g transform="translate(27 32)" fill="none" stroke="#d9bd77" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m21 3-12 12a5 5 0 0 0 0 7l5 5a5 5 0 0 0 7 0l4-4M13 11l4-4 8 8M15 18h14"/></g>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+    <text x="84" y="58" fill="#edf2f7" font-size="28" font-weight="600">LeetCode</text>
+
+  </g>
+</svg>

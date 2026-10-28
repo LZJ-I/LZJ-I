@@ -47,12 +47,15 @@ jobs:
           print(f"all retries failed, keeping existing stats: {last_err}")
           raise SystemExit(1)
           EOF
+      - name: Render CSDN link cards
+        if: steps.fetch.outcome == 'success'
+        run: python3 scripts/render_csdn_cards.py
       - name: Commit if changed
         if: steps.fetch.outcome == 'success'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/csdn-stats.json
+          git add data/csdn-stats.json assets/links/csdn-light.svg assets/links/csdn-dark.svg
           if git diff --staged --quiet; then
             echo "No change"
           else
